@@ -16,14 +16,14 @@
   .format-ordi .overlap-group {
     background-color: #d7c5ee;
     height: 108px;
-    left: 300px;
+    left: 150px;
     
 
     position: fixed;
     background-attachment: fixed;
       
     top: 0;
-    width: 1600px;
+    width: 1800px;
   }
   
   .format-ordi .enveloppe-copie {
