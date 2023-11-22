@@ -29,6 +29,7 @@
   .format-ordi .enveloppe-copie {
     height: 57px;
     left: 1286px;
+    right: 0px;
     object-fit: cover;
     position: absolute;
     top: 31px;
@@ -38,6 +39,7 @@
   .format-ordi .loupe {
     height: 65px;
     left: 1105px;
+    right: 0px;
     object-fit: cover;
     position: absolute;
     top: 31px;
@@ -47,6 +49,7 @@
   .format-ordi .shop {
     height: 63px;
     left: 1200px;
+    right: 0px;
     object-fit: cover;
     position: absolute;
     top: 28px;
