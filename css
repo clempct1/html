@@ -17,11 +17,11 @@
     background-color: #d7c5ee;
     height: 108px;
     left: 0;
-    position: absolute;
-    /*
+    
+
     position: fixed;
     background-attachment: fixed;
-    */
+    
     top: 0;
     width: 1280px;
   }
