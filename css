@@ -58,7 +58,8 @@
   
   .format-ordi .capture-decran {
     height: 84px;
-    left: 50px;
+    left: 23px;
+    right: 1600px; 
     object-fit: cover;
     position: absolute;
     top: 12px;
