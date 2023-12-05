@@ -324,3 +324,298 @@ display: flex;
 width: 556px;
 margin-top: 126px;
 }
+.format-ordi .affiche-perpi {
+  position: absolute;
+  width: 514px;
+  height: 692px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.format-ordi .text-wrapper-6 {
+  position: absolute;
+  width: 25px;
+  top: 607px;
+  left: 146px;
+  opacity: 0.9;
+  font-family: "Arial-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #f8f8f8;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17px;
+  white-space: nowrap;
+}
+.format-ordi .overlap-2 {
+  position: absolute;
+  width: 514px;
+  height: 692px;
+  top: 126px;
+  left: 22px;
+}
+.format-ordi .poleartsvisuels {
+  position: absolute;
+  width: 774px;
+  height: 321px;
+  top: 2528px;
+  left: 253px;
+  object-fit: cover;
+}
+.format-ordi .capture-galerie {
+  position: absolute;
+  width: 551px;
+  height: 370px;
+  top: 1744px;
+  left: 364px;
+  object-fit: cover;
+}
+.format-ordi .photo-cd {
+  position: absolute;
+  width: 774px;
+  height: 455px;
+  top: 2881px;
+  left: 253px;
+  object-fit: cover;
+}
+.format-ordi .galeriebleu {
+  position: absolute;
+  width: 477px;
+  height: 607px;
+  top: 1085px;
+  left: 748px;
+  object-fit: cover;
+}
+.format-ordi .coin {
+  position: absolute;
+  width: 270px;
+  height: 338px;
+  top: 2152px;
+  left: 505px;
+  object-fit: cover;
+}
+.format-ordi .cheminé {
+  position: absolute;
+  width: 470px;
+  height: 607px;
+  top: 1085px;
+  left: 66px;
+  object-fit: cover;
+}
+.format-ordi .text-wrapper-7 {
+  position: absolute;
+  top: 3471px;
+  left: 872px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .text-wrapper-8 {
+  position: absolute;
+  width: 273px;
+  top: 3461px;
+  left: 179px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .textehistoire {
+  position: absolute;
+  width: 677px;
+  top: 17px;
+  left: 16px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.format-ordi .logo {
+  position: absolute;
+  width: 84px;
+  height: 84px;
+  top: 12px;
+  left: 22px;
+  object-fit: cover;
+}
+
+.format-ordi .rectangle {
+  position: absolute;
+  width: 718px;
+  height: 692px;
+  top: 0;
+  left: 0;
+  background-color: #d7c5ee;
+}
+.format-ordi .pratiques {
+ position: absolute;
+ width: 852px;
+ height: 160px;
+ top: 244px;
+ left: 215px;
+ background-color: #d7c5ee;
+}
+.format-ordi .text-pratique {
+  position: absolute;
+  width: 802px;
+  top: 19px;
+  left: 24px;
+  font-family: "Montserra-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.format-ordi .div-wrapper {
+  position: absolute;
+  width: 574px;
+  height: 157px;
+  top: 1593px;
+  left: 353px;
+  background-color: #d7c5ee;
+}
+.format-ordi .text-cont {
+  position: absolute;
+  width: 512px;
+  top: 12px;
+  left: 34px;
+  font-family: "Montserrat-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.format-ordi .text-ouv {
+  position: absolute;
+  top: 505px;
+  left: 53px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .text-acc {
+  position: absolute;
+  top: 857px;
+  left: 53px;
+  font-family:"Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .text-tel {
+  position: absolute;
+  top: 2690px;
+  left: 61px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .text-ma {
+  position: absolute;
+  top: 2816px;
+  left: 65px;
+  font-family: "Montserra-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .mardi {
+  position: absolute;
+  width: 462px;
+  top: 505px;
+  left: 383px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .place {
+  position: absolute;
+  top: 820px;
+  left: 248px;
+  font-family: "Montserrat-Medium", helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .text-26 {
+  position: absolute;
+  top: 2690px;
+  left: 326px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .text-28 {
+  position: absolute;
+  width: 371px;
+  top: 2816px;
+  left: 190px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .bus {
+  position: absolute;
+  width: 605px;
+  top: 950px;
+  left: 255px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.format-ordi .line {
+  position: fixed;
+  width: 445px;
+  height: 408px;
+  position: absolute;
+  top: 1150px;
+  left: 400px;
+}
