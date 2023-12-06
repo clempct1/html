@@ -332,6 +332,20 @@ margin-top: 126px;
   left: 0;
   object-fit: cover;
 }
+.format-ordi .text-78 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "Montserrat-Black", Helvetica;
+  font-size: 96px;
+  font-weight: 900;
+  left: 381px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 880px;
+}
 .format-ordi .text-wrapper-6 {
   position: absolute;
   width: 25px;
@@ -618,4 +632,30 @@ margin-top: 126px;
   position: absolute;
   top: 1150px;
   left: 400px;
+}
+
+#champ1 {
+  margin-top: 1900px;
+}
+
+.text-tel {
+  margin-top: -500px;
+}
+
+.text-ma {
+  margin-top: -500px;
+}
+
+.text-26 {
+  margin-top: -500px;
+}
+
+.text-28 {
+  margin-top: -500px;
+}
+
+@media screen and (max-width : 1000px) {
+  .format-ordi {
+    display: none;
+  }
 }
