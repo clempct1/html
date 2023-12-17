@@ -654,8 +654,44 @@ margin-top: 126px;
   margin-top: -500px;
 }
 
-@media screen and (max-width : 1000px) {
-  .format-ordi {
-    display: none;
-  }
+.format-ordi .logoinsta {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 2500px;
+  left: 66px;
+  object-fit: cover;
 }
+
+.format-ordi .instagram {
+  position: absolute;
+  top: 2602px;
+  left: 60px;
+  font-family: "Montserrat-Medium", helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.format-ordi .logofb {
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  top: 2485px;
+  left: 300px;
+  object-fit: cover;
+}
+.format-ordi .facebook {
+  position: absolute;
+  top: 2602px;
+  left: 300px;
+  font-family: "Montserrat-Medium", helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
