@@ -89,12 +89,6 @@
   top: 137px;
   width: 682px;
 
-	@media screen and (max-width: 380 px) {
-	.format-ordi {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
 }
 
 .format-ordi .img {
