@@ -695,3 +695,9 @@ margin-top: 126px;
   line-height: normal;
 }
 
+@media screen and (max-width: 380 px) {
+	.format-smartphone {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
