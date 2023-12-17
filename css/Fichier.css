@@ -5,12 +5,7 @@
   justify-content: center;
   width: 100%;
 }
-@media screen and (max-width: 380 px) {
-	.format-ordi {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
+
 .format-ordi .div {
   background-color: #ffffff;
   height: 3579px;
@@ -93,6 +88,13 @@
   text-align: center;
   top: 137px;
   width: 682px;
+
+	@media screen and (max-width: 380 px) {
+	.format-ordi {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 }
 
 .format-ordi .img {
