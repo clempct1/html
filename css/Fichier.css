@@ -5,7 +5,12 @@
   justify-content: center;
   width: 100%;
 }
-
+@media screen and (max-width: 380 px) {
+	.format-smartphone {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 .format-ordi .div {
   background-color: #ffffff;
   height: 3579px;
