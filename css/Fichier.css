@@ -696,6 +696,10 @@ margin-top: 126px;
   line-height: normal;
 }
 
+.format-ordi .loupe:hover {
+	background-color: white;
+}
+
 @media screen and (max-width: 380 px) {
 	.format-ordi {
 		display: flex;
