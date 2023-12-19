@@ -696,8 +696,8 @@ margin-top: 126px;
   line-height: normal;
 }
 
-.format-ordi .loupe:hover {
-	background-color: white;
+.format-ordi .artiste:hover {
+	transition: all 0.3s ease 0s;
 }
 
 @media screen and (max-width: 380 px) {
