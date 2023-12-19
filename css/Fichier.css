@@ -698,6 +698,17 @@ margin-top: 126px;
 
 .format-ordi .nolan-et-nola:hover {
 	transition: all 0.3s ease 0s;
+	color: #000000;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1708px;
+  width: 452px;
 }
 
 @media screen and (max-width: 380 px) {
